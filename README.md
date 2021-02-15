@@ -8,7 +8,7 @@
 🌍 Community: I created IT community, where I share my interests and get inspiration from others
 <a href="https://www.instagram.com/kattycode/"><img src="https://img.shields.io/badge/-@kattycode-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> </br>
 ✉️ Send me message: &nbsp;You can shoot me an email at katerina.komarkova@hotmail.com ! I'll try to respond as soon as I can. </br>
-💜 Interests: 🎓🗣️ :fr: 🇩🇰 👩‍🍳 🏃‍♀️ 🏋️‍♀️  🏓 
+💜 Interests: 🎓💬🗣️ :fr: 🇩🇰 👩‍🍳 🏃‍♀️ 🏋️‍♀️  🏓 
 
 
 
