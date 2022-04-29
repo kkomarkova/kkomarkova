@@ -4,9 +4,6 @@
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 Education: &nbsp;I'm currently studying Computer Science at Zealand Business Academy. </br>
 🌱 Currently learning: &nbsp;I'm on track for learning more about Mobile app Development, Security, Databases, C#, Typescript... </br>
-📄 Check out my CV: &nbsp;Please have a look at my [Résumé](https://docdro.id/rkN7ds5) for more details about me. I'm open to feedback and suggestions!</br>
-🌍 Community: I created IT community, where I share my interests and get inspiration from others
-<a href="https://www.instagram.com/kattycode/"><img src="https://img.shields.io/badge/-@kattycode-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> </br>
 ✉️ Send me message: &nbsp;You can shoot me an email at katerina.komarkova@hotmail.com ! I'll try to respond as soon as I can. </br>
 💜 Interests: 🎓💬🗣️ :fr: 🇩🇰 👩‍🍳 🏃‍♀️ 🏋️‍♀️  🏓 
 
