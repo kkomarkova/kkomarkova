@@ -2,7 +2,7 @@
 ## 👋 &nbsp;Hey there! I'm Kateřina
 
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 Education: &nbsp;I'm currently studying Computer Science at Zealand Business Academy. </br>
+🎓 Education: &nbsp;I'm currently studying Software Development. </br>
 🌱 Currently learning: &nbsp;I'm on track for learning more about Mobile app Development, Security, Databases, C#, Typescript... </br>
 ✉️ Send me message: &nbsp;You can shoot me an email at katerina.komarkova@hotmail.com 
 💜 Interests: 🎓💬🗣️ :fr: 🇩🇰 👩‍🍳 🏃‍♀️ 🏋️‍♀️  🏓 
